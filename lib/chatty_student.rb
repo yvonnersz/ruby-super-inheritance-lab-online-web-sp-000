@@ -10,7 +10,4 @@ class ChattyStudent < Student
     10.times.raise_hand
   end
 
-
-
-
 end
